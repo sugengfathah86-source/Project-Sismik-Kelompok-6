@@ -36,22 +36,11 @@ Sistem kipas otomatis yang mengatur kecepatan kipas DC secara otomatis berdasark
 
 ---
 
-## 🗺️ Diagram Blok Sistem
-
-```
-[Sensor TMP] ──(ADC)──▶ [Arduino Uno] ──(PWM)──▶ [TIP120] ──▶ [Motor Kipas]
-                              │
-                           (I2C)
-                              │
-                              ▼
-                         [LCD 16×2]
-```
-
 ---
 
 ## ⚡ Wiring / Skematik
 
-![alt text](?raw=true)
+![alt text](https://github.com/BillyUdin/Project-Sismik-Kelompok-6/blob/main/Project%20Sistem%20Mikrokontroller%20kelompok%206/Dokumen/Skematik%20Kipas%20Otomatis.png?raw=true)
 
 **Koneksi utama:**
 - **Sensor TMP** → Pin Analog (A0) Arduino
@@ -103,7 +92,7 @@ loop:
 │    └── Skematik_Kipas_Otomatis.png 
 ├── 📂 Sourcecode/
 │   └── Source Code.ino
-├── 📄 README.md
+└── 📄 README.md
 ```
 
 ---
