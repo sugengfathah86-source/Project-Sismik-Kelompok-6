@@ -19,8 +19,6 @@ Sistem kipas otomatis yang mengatur kecepatan kipas DC secara otomatis berdasark
 2. Mengontrol GPIO sebagai input (sensor suhu via ADC) dan output (PWM untuk motor kipas).
 3. Menggunakan protokol komunikasi **I2C** untuk mengoperasikan LCD.
 4. Menerapkan konversi **ADC** dari sensor analog dan teknik **PWM** untuk mengontrol kecepatan motor.
-5. Menganalisis hubungan antara perubahan suhu dengan respons kecepatan kipas untuk memastikan sistem bekerja secara optimal dan stabil.
-6. Mengintegrasikan beberapa komponen perangkat keras (sensor suhu, LCD, dan motor kipas) dalam satu sistem berbasis mikrokontroler secara terkoordinasi.
 
 ---
 
