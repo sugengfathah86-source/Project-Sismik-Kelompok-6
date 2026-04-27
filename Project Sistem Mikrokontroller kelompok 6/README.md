@@ -113,6 +113,3 @@ loop:
 ## 📝 Lisensi
 
 Proyek ini dibuat untuk keperluan akademik — **Project I Sistem Mikrokontroler**, Fakultas Teknik, Universitas Jenderal Soedirman.
-
-## kontributor
-Salaf
